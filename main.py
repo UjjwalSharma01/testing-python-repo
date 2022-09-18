@@ -1,3 +1,5 @@
+#im testing this little things , let's se what is going to happen
+
 import logging
 logging.basicConfig(
                     filename='mylog10072019.txt',
